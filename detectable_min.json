@@ -7,6 +7,12 @@
         "overwatch.exe"
       ]
     },
+        {
+      "name": "the test game",
+      "executables": [
+        "im_test_man.exe"
+      ]
+    },
     {
       "name": "World of Warcraft",
       "aliases": [
